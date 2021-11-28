@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi, my name is **Semyon Shtrak**.👋
+## I'm beginner Front-end developer.
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 <!--
 **Dedam4/Dedam4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
